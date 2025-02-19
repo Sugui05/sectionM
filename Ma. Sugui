@@ -5,8 +5,6 @@ public class StudentNames {
         // Students, add your names below using the format:
         // System.out.println("Your Name - SECTION");
 
-        System.out.println("Clarence P. Cardenas - BSIT 2M");
-        System.out.println("James Michael B. Dela Cruz - BSIT 2M");
-        System.out.println("Ma. Liza M. Sugui - BSIT 2M");  // <--- Added your name
+        System.out.println("Ma. Liza M. Sugui - BSIT 2M");  // <--- Only your name is included
     }
 }
